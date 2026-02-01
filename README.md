@@ -1,3 +1,4 @@
 # new-rapo
 This is my second Git repository.
-Author - Damanpreet Kaur
+<br>
+<b>Author - Damanpreet Kaur</b>
